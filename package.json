@@ -4,7 +4,7 @@
   "description": "JS library for accessing Jitsi server side deployments",
   "repository": {
     "type": "git",
-    "url": "git://github.com/saiprematechnologies/lib-jitsi-meet#lib-jitsi-meet-dev"
+    "url": "git://github.com/saiprematechnologies/lib-jitsi-meet"
   },
   "keywords": [
     "jingle",
