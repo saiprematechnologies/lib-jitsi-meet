@@ -4,7 +4,7 @@
   "description": "JS library for accessing Jitsi server side deployments",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jitsi/lib-jitsi-meet"
+    "url": "git://github.com/saiprematechnologies/lib-jitsi-meet"
   },
   "keywords": [
     "jingle",
@@ -45,7 +45,7 @@
     "webpack": "1.14.0"
   },
   "scripts": {
-    "install": "webpack -p",
+    "install": "webpack",
     "lint": "jshint . && eslint .",
     "test": "karma start karma.conf.js",
     "validate": "npm ls"
